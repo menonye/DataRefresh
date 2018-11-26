@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-rest-api-test-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/spring-rest-api-test-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
